@@ -1,0 +1,7 @@
+.env
+.idea
+node_modules
+*.xlsx
+*.txt
+something.js
+trial.js

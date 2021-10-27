@@ -28,6 +28,12 @@ We had already about 230+ english data in our database. But now we needed bangla
 - Regex link parsing
 - Query Transactions etc
 
+### Installation
+
+run using npm
+
+`npm install`
+
 ### Conclusion
 
 This script is only kind of a note to self. So don't bother if it looks weird to you!  
